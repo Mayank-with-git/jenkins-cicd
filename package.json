@@ -1,6 +1,15 @@
 {
-"scripts": {
-  "start": "node app.js",
-  "test": "echo \"No tests yet\" && exit 0"
+  "name": "jenkins-cicd-project",
+  "version": "1.0.0",
+  "description": "A sample Node.js project for Jenkins CI/CD pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "author": "Mayank",
+  "license": "ISC",
+  "dependencies": {}
 }
+
 
